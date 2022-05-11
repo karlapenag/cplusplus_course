@@ -1,0 +1,15 @@
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/Exercise3HW2.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/exercise4.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/Ex4_fail.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/ejemplo.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/scratch2.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/Ex_2.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/scratch.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/structExamples.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/Ex_3.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/Ex5.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/Ex_4.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/Ex_1.dir
+/Users/karla/CLionProjects/Assignment_2/cmake-build-debug/CMakeFiles/Assignment_2.dir

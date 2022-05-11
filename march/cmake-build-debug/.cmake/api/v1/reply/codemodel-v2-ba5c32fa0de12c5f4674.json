@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "march",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dummy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dummy-Debug-95497af9294196b3f3e0.json",
+					"name" : "dummy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example-Debug-c2fd5deb60be0a5d8c2b.json",
+					"name" : "example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise1-Debug-17d9e4a90140f541582f.json",
+					"name" : "exercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-files-Debug-9d5c51751429f5c6b4ca.json",
+					"name" : "files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "march::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-march-Debug-c49309bbaf5f11943496.json",
+					"name" : "march",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "readfile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-readfile-Debug-b467748e8a12ccd389b1.json",
+					"name" : "readfile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scratch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scratch-Debug-5a7dac3d9cae5b45ef54.json",
+					"name" : "scratch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scratch2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scratch2-Debug-a85f1be866722c85ff6f.json",
+					"name" : "scratch2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/karla/CLionProjects/march/cmake-build-debug",
+		"source" : "/Users/karla/CLionProjects/march"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

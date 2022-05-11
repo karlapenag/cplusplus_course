@@ -1,0 +1,11 @@
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/example6.dir
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/example5.dir
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/example4.dir
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/Assignment3.dir
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/example3.dir
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/example2.dir
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/pointers.dir
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/example.dir
+/Users/karla/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/dm_simulator.dir

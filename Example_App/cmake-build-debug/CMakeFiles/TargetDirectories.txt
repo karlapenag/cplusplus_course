@@ -1,0 +1,8 @@
+/Users/karla/CLionProjects/Example_App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/karla/CLionProjects/Example_App/cmake-build-debug/CMakeFiles/Player.dir
+/Users/karla/CLionProjects/Example_App/cmake-build-debug/CMakeFiles/Tile.dir
+/Users/karla/CLionProjects/Example_App/cmake-build-debug/CMakeFiles/stdafx.dir
+/Users/karla/CLionProjects/Example_App/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karla/CLionProjects/Example_App/cmake-build-debug/CMakeFiles/Game.dir
+/Users/karla/CLionProjects/Example_App/cmake-build-debug/CMakeFiles/TileMap.dir
+/Users/karla/CLionProjects/Example_App/cmake-build-debug/CMakeFiles/Example_App.dir

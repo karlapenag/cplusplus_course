@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.21)
+project(Assignment_2)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Assignment_2 main.cpp)
+add_executable(Ex_1 Ex_1.cpp)
+add_executable(Ex_2 Ex_2.cpp)
+add_executable(Ex_3 Ex_3.cpp)
+add_executable(Ex_4 Ex_4.cpp)
+add_executable(structExamples structExamples.cpp)
+add_executable(Ex5 Ex5.cpp)
+add_executable(scratch scratch.cpp)
+add_executable(scratch2 scratch2.cpp)
+add_executable(exercise4 exercise4.cpp)
+add_executable(Ex4_fail Ex4_fail.cpp)
+add_executable(ejemplo ejemplo.cpp)
+add_executable(Exercise3HW2 Exercise3HW2.cpp)

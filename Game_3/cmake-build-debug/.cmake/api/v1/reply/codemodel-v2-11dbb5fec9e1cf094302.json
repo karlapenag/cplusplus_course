@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Game_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Bullet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bullet-Debug-e58294d4293ed952a5a3.json",
+					"name" : "Bullet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Enemy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Enemy-Debug-df7ed965beacb4a3656d.json",
+					"name" : "Enemy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Game-Debug-ab55dafe5c56877de1ce.json",
+					"name" : "Game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Game_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Game_3-Debug-93e53170021c50d1be75.json",
+					"name" : "Game_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Player::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Player-Debug-65425a1f44c261e08a62.json",
+					"name" : "Player",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tile-Debug-9787d883ac14f8966ce7.json",
+					"name" : "Tile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TileMap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TileMap-Debug-c94548f77196b6f0dfbb.json",
+					"name" : "TileMap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stdafx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stdafx-Debug-6940efe1a51dba7646fd.json",
+					"name" : "stdafx",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/karla/CLionProjects/Game_3/cmake-build-debug",
+		"source" : "/Users/karla/CLionProjects/Game_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

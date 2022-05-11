@@ -1,0 +1,9 @@
+/Users/karla/CLionProjects/exam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/karla/CLionProjects/exam/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karla/CLionProjects/exam/cmake-build-debug/CMakeFiles/linkedList.dir
+/Users/karla/CLionProjects/exam/cmake-build-debug/CMakeFiles/allocator.dir
+/Users/karla/CLionProjects/exam/cmake-build-debug/CMakeFiles/sudoku.dir
+/Users/karla/CLionProjects/exam/cmake-build-debug/CMakeFiles/isSorted.dir
+/Users/karla/CLionProjects/exam/cmake-build-debug/CMakeFiles/dotProduct.dir
+/Users/karla/CLionProjects/exam/cmake-build-debug/CMakeFiles/library_scaffold.dir
+/Users/karla/CLionProjects/exam/cmake-build-debug/CMakeFiles/exam.dir

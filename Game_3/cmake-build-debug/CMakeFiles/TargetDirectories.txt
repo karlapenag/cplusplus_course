@@ -1,0 +1,10 @@
+/Users/karla/CLionProjects/Game_3/cmake-build-debug/CMakeFiles/TileMap.dir
+/Users/karla/CLionProjects/Game_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/karla/CLionProjects/Game_3/cmake-build-debug/CMakeFiles/Tile.dir
+/Users/karla/CLionProjects/Game_3/cmake-build-debug/CMakeFiles/stdafx.dir
+/Users/karla/CLionProjects/Game_3/cmake-build-debug/CMakeFiles/Enemy.dir
+/Users/karla/CLionProjects/Game_3/cmake-build-debug/CMakeFiles/Player.dir
+/Users/karla/CLionProjects/Game_3/cmake-build-debug/CMakeFiles/Bullet.dir
+/Users/karla/CLionProjects/Game_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karla/CLionProjects/Game_3/cmake-build-debug/CMakeFiles/Game.dir
+/Users/karla/CLionProjects/Game_3/cmake-build-debug/CMakeFiles/Game_3.dir

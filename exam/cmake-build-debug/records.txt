@@ -1,0 +1,25 @@
+ISBN: 978-0321563842
+Title: The C++ programming language
+Authors: Bjarne Stroustrup,
+Edition: 4
+Year: 2013
+==============================================
+ISBN: 978-1118063330
+Title: Operating systems concepts
+Authors: Abraham Silberschatz, Peter Galvin, Greg
+Gagne,
+Edition: 9
+Year: 2012 
+==============================================
+ISBN: 978-0132316811
+Title: Introduction to the design and analysis of algorithms
+Authors: Anany Levitin,
+Edition: 3
+Year: 2011
+==============================================
+ISBN: 978-8131525296
+Title: Introduction to the theory of computation
+Authors: Micheal Sipser,
+Edition: 3
+Year: 2012
+==============================================

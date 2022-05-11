@@ -1,0 +1,9 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/karla/CLionProjects/Game_app
+-- Found SFML 2.5.1 in /Library/Frameworks/SFML.framework/Resources/CMake
+CMake Error at CMakeLists.txt:7 (target_link_libraries):
+  Cannot specify link libraries for target "Game_app" which is not built by
+  this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/karla/CLionProjects/Game_app/cmake-build-debug/CMakeFiles/CMakeOutput.log".

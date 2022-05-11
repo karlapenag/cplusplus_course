@@ -1,0 +1,16 @@
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/Ex4.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/class_20feb.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/class_16feb.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/class_9feb.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/exercise_3.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/exercise_1.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/CtoF.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/ex7.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/ex6.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/ex5.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/main.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/demo.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/exercise_2.dir
+/Users/karla/CLionProjects/CS207/cmake-build-debug/CMakeFiles/exercises.dir

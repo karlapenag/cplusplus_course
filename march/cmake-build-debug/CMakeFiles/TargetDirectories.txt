@@ -1,0 +1,10 @@
+/Users/karla/CLionProjects/march/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/karla/CLionProjects/march/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karla/CLionProjects/march/cmake-build-debug/CMakeFiles/dummy.dir
+/Users/karla/CLionProjects/march/cmake-build-debug/CMakeFiles/example.dir
+/Users/karla/CLionProjects/march/cmake-build-debug/CMakeFiles/readfile.dir
+/Users/karla/CLionProjects/march/cmake-build-debug/CMakeFiles/exercise1.dir
+/Users/karla/CLionProjects/march/cmake-build-debug/CMakeFiles/scratch2.dir
+/Users/karla/CLionProjects/march/cmake-build-debug/CMakeFiles/files.dir
+/Users/karla/CLionProjects/march/cmake-build-debug/CMakeFiles/scratch.dir
+/Users/karla/CLionProjects/march/cmake-build-debug/CMakeFiles/march.dir

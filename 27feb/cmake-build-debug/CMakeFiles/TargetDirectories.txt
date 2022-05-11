@@ -1,0 +1,4 @@
+/Users/karla/CLionProjects/27feb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/karla/CLionProjects/27feb/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karla/CLionProjects/27feb/cmake-build-debug/CMakeFiles/exercise.dir
+/Users/karla/CLionProjects/27feb/cmake-build-debug/CMakeFiles/27feb.dir
